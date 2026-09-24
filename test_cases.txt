@@ -1,0 +1,60 @@
+
+# Headline 1 | Category: Not Effective | Expected Impact: Neutral (Filtered at Stage 1)
+Walmart tests new digital eco-friendly receipt option in select Midwest store locations.
+
+# Headline 2 | Category: Effective | Expected Impact: Bearish ($INTC)
+Intel cuts full-year revenue outlook by $5B and announces immediate 15% workforce reduction.
+
+# Headline 3 | Category: Unrelated | Expected Impact: None (Filtered at Stage 0 Guardrail)
+James Webb Space Telescope detects organic molecules on distant exoplanet 120 light-years away.
+
+# Headline 4 | Category: Effective | Expected Impact: Bullish ($LLY)
+Eli Lilly weight-loss drug wins FDA approval for cardiovascular risk reduction in diabetes patients.
+
+# Headline 5 | Category: Not Effective | Expected Impact: Neutral (Filtered at Stage 1)
+Cisco Systems updates brand color palette and redesigns internal employee intranet portal.
+
+# Headline 6 | Category: Unrelated | Expected Impact: None (Filtered at Stage 0 Guardrail)
+Kansas City Chiefs defeat San Francisco 49ers in dramatic overtime Super Bowl victory.
+
+# Headline 7 | Category: Effective | Expected Impact: Bullish ($NVDA)
+Nvidia receives $15 billion order for next-generation Blackwell GPUs from Google Cloud.
+
+# Headline 8 | Category: Not Effective | Expected Impact: Neutral (Filtered at Stage 1)
+Texas Instruments hosts annual family picnic for factory personnel in Dallas.
+
+# Headline 9 | Category: Effective | Expected Impact: Bearish ($BA)
+Boeing 737 MAX production halted by FAA following discovery of systemic manufacturing defects.
+
+# Headline 10 | Category: Unrelated | Expected Impact: None (Filtered at Stage 0 Guardrail)
+Local animal shelter celebrates successful adoption drive with 80 pets finding new homes.
+
+# Headline 11 | Category: Effective | Expected Impact: Bearish ($AAPL)
+Department of Justice files sweeping antitrust lawsuit to dissolve Apple App Store monopoly.
+
+# Headline 12 | Category: Not Effective | Expected Impact: Neutral (Filtered at Stage 1)
+Salesforce employees participate in annual city-wide community tree planting initiative.
+
+# Headline 13 | Category: Effective | Expected Impact: Bullish (Broad Market)
+Federal Reserve unexpectedly cuts benchmark interest rate by 50 basis points to stimulate growth.
+
+# Headline 14 | Category: Not Effective | Expected Impact: Neutral (Filtered at Stage 1)
+Delta Air Lines opens renovated passenger waiting lounge at Salt Lake City International Airport.
+
+# Headline 15 | Category: Unrelated | Expected Impact: None (Filtered at Stage 0 Guardrail)
+Heavy snowfall and freezing temperatures forecasted across the Pacific Northwest this week.
+
+# Headline 16 | Category: Effective | Expected Impact: Bullish ($PFE)
+Pfizer acquires cancer biotech Seagen in $43 billion mega-merger deal.
+
+# Headline 17 | Category: Not Effective | Expected Impact: Neutral (Filtered at Stage 1)
+Starbucks introduces new seasonal ceramic mug designs across North American retail stores.
+
+# Headline 18 | Category: Unrelated | Expected Impact: None (Filtered at Stage 0 Guardrail)
+Master chefs showcase innovative vegan dessert recipes at annual European culinary summit.
+
+# Headline 19 | Category: Not Effective | Expected Impact: Neutral (Filtered at Stage 1)
+Chipotle sponsors local youth soccer league in Denver for the upcoming summer season.
+
+# Headline 20 | Category: Unrelated | Expected Impact: None (Filtered at Stage 0 Guardrail)
+Classical orchestra wins international award for landmark performance of Beethoven's Ninth Symphony.
